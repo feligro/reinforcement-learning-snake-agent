@@ -52,7 +52,7 @@ Reward shaping helps the agent gradually learn desirable behaviors.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/reinforcement-learning-snake-agent.git
+git clone https://github.com/feligro/reinforcement-learning-snake-agent.git
 cd reinforcement-learning-snake-agent/src
 ```
 
